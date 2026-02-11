@@ -1,11 +1,11 @@
-# 📚 Library Management System (Python + Tkinter + SQLite)
+# Library Management System (Python + Tkinter + SQLite)
 
 A desktop-based **Library Management System** built with **Python Tkinter** for the GUI and **SQLite** for the database.  
 This project allows librarians to manage books, members, and transactions (issue/return) with an intuitive interface.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Books Management**
   - Add, update, delete books
@@ -24,7 +24,7 @@ This project allows librarians to manage books, members, and transactions (issue
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python 3.x**
 - **Tkinter** (GUI)
@@ -33,7 +33,7 @@ This project allows librarians to manage books, members, and transactions (issue
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 Library-Management-System:
 - library_management.py   # Main application code
@@ -45,7 +45,7 @@ Library-Management-System:
 
 ---
 
-🔮 Future Improvements:
+## Future Improvements:
 
 - Fine calculation for late returns
 - Export reports to CSV/PDF
